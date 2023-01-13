@@ -14,3 +14,9 @@ Diabetes is an illness caused because of high glucose level in a human body. Dia
 The project was built to check whether someone is suffering from diabetes by simply inputting certain values like BMI, Glucose level, Blood pressure, etc. with the help of a Kaggle database.
 
 By using the statistical data about how certain aspects like BMI, Glucose level, Insulin level, age, etc. impact if an individual is prone to diabetes or not, the project will be able to tell the user if the person has diabetes or not by entering those values. So in a way, the project will help in monitoring the likelihood of someone developing diabetes. The project can be extended to include other diseases prediction which I will incorporate later down the road. 
+
+# Screenshots
+
+![image](https://user-images.githubusercontent.com/94459565/212319640-7f27c0d3-419c-4dab-8173-4f264f98570e.png)
+
+![image](https://user-images.githubusercontent.com/94459565/212319805-c236bba6-e48d-4bec-a064-9c98e03b16ef.png)
